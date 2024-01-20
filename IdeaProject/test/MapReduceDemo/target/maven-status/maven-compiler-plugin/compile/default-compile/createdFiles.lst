@@ -1,0 +1,6 @@
+com\bingh\mapreduce\wordcount2\WordCountDriver.class
+com\bingh\mapreduce\wordcount\WordCountDriver.class
+com\bingh\mapreduce\wordcount2\WordCountReducer.class
+com\bingh\mapreduce\wordcount\WordCountMapper.class
+com\bingh\mapreduce\wordcount2\WordCountMapper.class
+com\bingh\mapreduce\wordcount\WordCountReducer.class
